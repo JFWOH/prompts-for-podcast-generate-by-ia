@@ -1,10 +1,18 @@
 ## 🧠 Prompts
 
 
-ChatGPT：
+Claude IA：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
+|  título  | rie sugestoes para esse titulo e explicite a relacao com ia / faça variacoes bem humoradas com Fundamentos de IA para Humanos: Entendendo Tokens e Embeddings /                                                       |
+| conteúdo | Usando o tom bem humorado do titulo : Manual de IA para Humanos Confusos: Tokens, Embeddings e Outros Mistérios , desenvolva um roteiro para o podcast com as seguintes regras:
+Todo o roteiro deve seguir o tom bem humorado e informativo do canal “Coisa de Nerd”
+INTRODUÇÃO
+CURIOSIDADE 1
+CURIOSIDADE 2
+FINALIZAÇÃO
+O podcast sera apresentado por uma pessoa, o Jeferson
+Deve ser curto
+Evite termos técnicos
+Encerre com a expressão, Eu sou o Jeferson e esse foi o tecquest da semana
