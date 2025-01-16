@@ -1,0 +1,1 @@
+Professional podcast cover art featuring a humorous scene of a human scratching their head while looking at holographic floating symbols and AI patterns. Digital matrix streams and embedding vectors flow in the background. Cinematic lighting with dramatic shadows. Photorealistic style with rich colors and glossy finish. Modern tech aesthetic with clean design elements
